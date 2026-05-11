@@ -1,1 +1,1 @@
-# sales-profit-insights-powerbi
+# Sales-Profit-insights-powerbi
