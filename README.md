@@ -40,27 +40,25 @@ An interactive multi-page Power BI dashboard developed to analyze sales performa
 ---
 
 ## 🏠 Home Page
-![Images](Home_Page.jpg)
+![Home Page](Images/Home_Page.jpg)
 
 ---
 
 ## 📊 Sales Overview
-![Images](Sales_Overview.jpg)
-
+![Sales Overview](Images/Sales_Overview.jpg)
 ---
 
 ## 📈 Profit Analysis
-![Images](Profit_Analysis.jpg)
+![Profit Analysis](Images/Profit_Analysis.jpg)
 
 ---
 
 ## 🌍 Regional Analysis
-![Images](Regional_Analysis.jpg)
-
+![Regional Analysis](Images/Regional_Analysis.jpg)
 ---
 
 ## 👥 Customer & Segment Analysis
-![Images](Customer_Segment_Analysis.jpg)
+![Customer Segment Analysis](Images/Customer_Segment_Analysis.jpg)
 
 ## ⚠️ Note
 Open the PBIX file using the latest version of Power BI Desktop.
